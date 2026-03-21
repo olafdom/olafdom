@@ -4,7 +4,7 @@ I'm a Computer Science student at **Warsaw University of Technology (PW)** with 
 
 ### 👨‍💻 About Me
 - 🌱 **Currently focusing on:** Data structures, algorithms, and surviving my CS degree.
-- 🏆 **Hobbies:** Grinding competitive programming problems (find me on [LeetCode / Codeforces]).
+- 🏆 **Hobbies:** Grinding competitive programming problems.
 - 📫 **Let's connect:** [https://www.linkedin.com/in/olaf-doma%C5%84ski-4b75403ab/]
 
 ### 🛠️ Tech Stack
