@@ -11,12 +11,12 @@ I'm a Computer Science student at **Warsaw University of Technology (PW)** with 
 
 **Familiar with:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github&theme=dark" alt="Familiar with" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,python&theme=dark" alt="Familiar with" />
 </div>
 
 **Learning / Exploring:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cmake,python&theme=dark" alt="Basics" />
+  <img src="https://skillicons.dev/icons?i=cmake,sklearn,bash&theme=dark" alt="Basics" />
 </div>
 
 <br>
