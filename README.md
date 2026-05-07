@@ -1,13 +1,13 @@
-# Hi, I'm Olaf! 👋
+# Hi, I'm Olaf!
 
 I'm a Computer Science student at **Warsaw University of Technology (PW)** with a strong passion for competitive programming and algorithmic problem-solving. 
 
-### 👨‍💻 About Me
-- 🌱 **Currently focusing on:** Data structures, algorithms, and surviving my CS degree.
-- 🏆 **Hobbies:** Grinding competitive programming problems.
-- 📫 **Let's connect:** https://www.linkedin.com/in/olafdomanski/
+### About Me
+- **Currently focusing on:** Machine Learning, Data structures, algorithms, and surviving my CS degree.
+- **Hobbies:** Grinding competitive programming problems and learning ML.
+- **Let's connect:** https://www.linkedin.com/in/olafdomanski/
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Familiar with:**
 <div align="left">
@@ -21,7 +21,7 @@ I'm a Computer Science student at **Warsaw University of Technology (PW)** with 
 
 <br>
 
-### 📊 Competitive Programming Stats
+### Competitive Programming Stats
 
 My current progress and ranking on algorithmic platforms:
 
