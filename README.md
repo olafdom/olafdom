@@ -16,7 +16,7 @@ I'm a Computer Science student at **Warsaw University of Technology (PW)** with 
 
 **Learning / Exploring:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,cmake,sklearn&theme=dark" alt="Basics" />
+  <img src="https://skillicons.dev/icons?i=fastapi,typescript,sklearn,cmake&theme=dark" alt="Basics" />
 </div>
 
 <br>
