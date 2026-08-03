@@ -1,11 +1,4 @@
-# Hi, I'm Olaf!
-
-I'm a Computer Science student at **Warsaw University of Technology (PW)** with a strong passion for competitive programming and algorithmic problem-solving. 
-
-### About Me
-- **Currently focusing on:** Machine Learning, Data structures, algorithms, and surviving my CS degree.
-- **Hobbies:** Grinding competitive programming problems and learning ML.
-- **Let's connect:** https://www.linkedin.com/in/olafdomanski/
+I'm a Computer Science student at Warsaw University of Technology (PW) with a strong passion for algorithmic problem solving. Currently exploring how to build and deploy applications, while discovering modern tools and frameworks used in the industry. Focusing on backend API and database development, as well as effectively leveraging AI to accelerate software engineering.
 
 ### Tech Stack
 
