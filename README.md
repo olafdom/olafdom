@@ -1,5 +1,7 @@
 I'm a Computer Science student at Warsaw University of Technology (PW) with a strong passion for algorithmic problem solving. Currently exploring how to build and deploy applications, while discovering modern tools and frameworks used in the industry. Focusing on backend API and database development, as well as effectively leveraging AI to accelerate software engineering.
 
+**Let's connect:** https://www.linkedin.com/in/olafdomanski/
+
 ### Tech Stack
 
 **Familiar with:**
