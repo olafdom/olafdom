@@ -11,7 +11,7 @@ I'm a Computer Science student at Warsaw University of Technology (PW) with a st
 
 **Learning / Exploring:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,javascript,typescript,react,nodejs,sklearn&theme=dark" alt="Basics" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" alt="Basics" />
 </div>
 
 <br>
