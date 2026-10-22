@@ -6,7 +6,7 @@ I'm a Computer Science student at Warsaw University of Technology (PW) with a st
 
 **Familiar with:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,git,github,latex&theme=dark" alt="Familiar with" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,bash,git,github,latex&theme=dark" alt="Familiar with" />
 </div>
 
 **Learning / Exploring:**
